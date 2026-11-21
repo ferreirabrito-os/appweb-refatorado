@@ -1,0 +1,29 @@
+# Maven
+target/
+.mvn/timing.properties
+
+# Java
+*.class
+*.log
+hs_err_pid*
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Visual Studio Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.bak
